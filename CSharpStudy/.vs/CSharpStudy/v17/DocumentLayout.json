@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sm997\\source\\repos\\CSharpStudy\\",
+  "WorkspaceRootPath": "C:\\Users\\sm997\\Documents\\CSharp\\CSharpStudy08\\CSharpStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{467F5E35-C6A8-4113-A173-C4EEB59B2FFD}|CSharpStudy.csproj|c:\\users\\sm997\\source\\repos\\csharpstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{467F5E35-C6A8-4113-A173-C4EEB59B2FFD}|CSharpStudy.csproj|c:\\users\\sm997\\documents\\csharp\\csharpstudy08\\csharpstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{467F5E35-C6A8-4113-A173-C4EEB59B2FFD}|CSharpStudy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sm997\\source\\repos\\CSharpStudy\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sm997\\Documents\\CSharp\\CSharpStudy08\\CSharpStudy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\sm997\\source\\repos\\CSharpStudy\\Program.cs",
+              "ToolTip": "C:\\Users\\sm997\\Documents\\CSharp\\CSharpStudy08\\CSharpStudy\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T16:52:18.345Z",
               "EditorCaption": ""

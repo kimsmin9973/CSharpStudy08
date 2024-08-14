@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sm997\\source\\repos\\CSharpStudy\\CSharpStudy.csproj": {}
+    "C:\\Users\\sm997\\Documents\\CSharp\\CSharpStudy08\\CSharpStudy\\CSharpStudy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sm997\\source\\repos\\CSharpStudy\\CSharpStudy.csproj": {
+    "C:\\Users\\sm997\\Documents\\CSharp\\CSharpStudy08\\CSharpStudy\\CSharpStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sm997\\source\\repos\\CSharpStudy\\CSharpStudy.csproj",
+        "projectUniqueName": "C:\\Users\\sm997\\Documents\\CSharp\\CSharpStudy08\\CSharpStudy\\CSharpStudy.csproj",
         "projectName": "CSharpStudy",
-        "projectPath": "C:\\Users\\sm997\\source\\repos\\CSharpStudy\\CSharpStudy.csproj",
+        "projectPath": "C:\\Users\\sm997\\Documents\\CSharp\\CSharpStudy08\\CSharpStudy\\CSharpStudy.csproj",
         "packagesPath": "C:\\Users\\sm997\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sm997\\source\\repos\\CSharpStudy\\obj\\",
+        "outputPath": "C:\\Users\\sm997\\Documents\\CSharp\\CSharpStudy08\\CSharpStudy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sm997\\AppData\\Roaming\\NuGet\\NuGet.Config",
