@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\uAE40\uC2B9\uBBFC\\Desktop\\CSharp\\CSharpStudy08\\CSharpStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6AE40E03-5546-4380-9A3D-0B8EDD795463}|\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC.csproj|c:\\users\\\uAE40\uC2B9\uBBFC\\desktop\\csharp\\csharpstudy08\\csharpstudy\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE40E03-5546-4380-9A3D-0B8EDD795463}|\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC.csproj|solutionrelative:\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uAE40\uC2B9\uBBFC\\Desktop\\CSharp\\CSharpStudy08\\CSharpStudy\\CSharpStudy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpStudy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -10,15 +14,28 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 327,
+      "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC2B9\uBBFC\\Desktop\\CSharp\\CSharpStudy08\\CSharpStudy\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\Program.cs",
+              "RelativeDocumentMoniker": "\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\Program.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC2B9\uBBFC\\Desktop\\CSharp\\CSharpStudy08\\CSharpStudy\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\Program.cs",
+              "RelativeToolTip": "\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:38:23.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -26,21 +43,17 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\uAE40\uC2B9\uBBFC\\Desktop\\CSharp\\CSharpStudy08\\CSharpStudy\\CSharpStudy\\Program.cs",
               "RelativeDocumentMoniker": "CSharpStudy\\Program.cs",
               "ToolTip": "C:\\Users\\\uAE40\uC2B9\uBBFC\\Desktop\\CSharp\\CSharpStudy08\\CSharpStudy\\CSharpStudy\\Program.cs",
               "RelativeToolTip": "CSharpStudy\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAD4vyoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T04:07:00.367Z",
               "EditorCaption": ""
